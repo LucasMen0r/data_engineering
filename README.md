@@ -41,3 +41,46 @@ Este repositório contém um projeto prático de Engenharia de Dados focado na c
    conda create --name engenharia_dados python=3.10
    conda activate engenharia_dados
    conda install pandas
+# ETL Pipeline: Public Budget Data
+
+This repository contains a practical Data Engineering project focused on building an ETL (Extract, Transform, Load) pipeline from scratch. The main goal is to process raw public financial and budget planning data (LDO, LOA, and PPA reports) and structure them for analytical consumption.
+
+## Objectives
+- Consolidate foundational knowledge in Batch Processing and data ingestion.
+- Apply Data Quality techniques (cleaning, casting, and standardizing) to real-world data.
+- Persist structured data into a relational database.
+- Handle schema asymmetry when concatenating multiple files from different sources.
+
+## Tech Stack
+- **Language:** Python 3.10+
+- **Data Manipulation:** `pandas`
+- **Database:** `sqlite3` (Built-in)
+- **Path Management:** `pathlib` (Built-in)
+
+## Pipeline Architecture
+
+1. **Extract:**
+   - Automated batch reading of multiple `.csv` files (historical data from 2014 to 2024) located in a target directory using `pathlib.Path.glob`.
+   - Initial handling of distinct `encoding` (`utf-8`) and delimiters (`separator=';'`).
+   - Implementation of data traceability by appending an `arquivo_origem` (source file) column to identify the origin of each parsed row.
+
+2. **Transform (Data Quality):**
+   - Dynamic DataFrame concatenation (`pd.concat`), automatically handling asymmetric columns across the LDO, LOA, and PPA reports.
+   - Cleansing of Brazilian financial formatting (converting Strings to `float64`):
+     - Removal of thousand separators (`.`).
+     - Handling of null values represented by accounting hyphens (`-`).
+     - Parsing negative values formatted in accounting standard with parentheses (e.g., converting `(182.592)` to `-182592.0`).
+
+3. **Load:**
+   - Automated connection and schema creation in an SQLite database (`.db`).
+   - Initial Raw load utilizing the built-in `csv` library and native SQL statements (`INSERT INTO`).
+   - Clean load utilizing the pandas `to_sql` method for automated persistence with corrected data typing.
+
+## How to Run
+
+1. Clone this repository.
+2. Create a virtual environment using Anaconda:
+   ```bash
+   conda create --name data_engineering python=3.10
+   conda activate data_engineering
+   conda install pandas
