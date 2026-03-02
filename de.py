@@ -77,6 +77,8 @@ print(df_ldo.info())
 df_ldo.to_sql('ldo_2024_limpo', conexao, if_exists='replace', index=False)
 print("Tabela 'ldo_2024_limpo' criada com sucesso!")
 
+
+
 # --- VALIDANDO O RESULTADO ---
 print("\nLendo a tabela limpa direto do banco com Pandas:")
 query_limpa = 'SELECT * FROM ldo_2024_limpo'
@@ -87,14 +89,12 @@ print(df_limpo_do_banco.head())
 print("\nTipos de dados importados do banco (agora como números reais):")
 print(df_limpo_do_banco.dtypes)
 
-aminho_db = Path(__file__).parent / 'ldo_2024.db'
+caminho_db = Path(__file__).parent / 'ldo_2024.db'
 
 
 with sqlite3.connect(caminho_db) as conexao:
     query = "SELECT * FROM ldo_2024_limpo"
     df = pd.read_sql_query(query, conexao)
-
-print("--- INÍCIO DA ANÁLISE COM PANDAS ---")
 
 # 1. Informações gerais do DataFrame
 print("\n1. Estrutura dos dados importados:")
@@ -140,6 +140,6 @@ if lista_dataframes:
     print(f"\nContagem de registros:")
     print(df_consolidado.columns.to_list())
 else:
-    print(f"Nenhum arquivo processado.")
+    print(f"Arquivos já processados.")
 
 conexao.close()
