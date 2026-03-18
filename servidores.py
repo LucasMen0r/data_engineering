@@ -56,4 +56,47 @@ df_servidores_cleaned = pd.read_sql_query(query_cleaned, conn)
 print(df_servidores_cleaned.head()) # Exibe as primeiras linhas do DataFrame para verificar a limpeza dos dados.
 
 print("Tipagem dos dados após limpeza:")
-print(df_servidores_cleaned.dtypes)
+print(df_servidores_cleaned.dtypes) # Exibe a tipagem dos dados para confirmar que a coluna 'salario' foi convertida para float e as outras colunas permanecem como string.
+conn.close()
+
+print("\n1. Estrutura dos dados importados:")
+print(f"Total de linhas: {df_servidores_cleaned.shape[0]}")
+print(f"Total de colunas: {df_servidores_cleaned.shape[1]}")
+
+total_servidores = df_servidores_cleaned.shape[0]
+print(f"\n2. Total de servidores públicos: {total_servidores}")
+# 3. Filtragem (Subconjuntos de dados)
+# na=False evita erros caso existam linhas nulas na coluna
+df_servidores_cleaned = df_servidores[df_servidores['especificacao'].str.contains('Especialidade', case=False, na=False)]
+
+# 4. Ordenação (Sorting) e Seleção de Colunas
+top_5_salarios = df_servidores_cleaned[['{Valor Líquido}', 'salario']].sort_values(
+    by='salario', 
+    ascending=False
+).head(5)
+
+print("\n3. Top 5 Salários (Maior para o Menor):")
+print(top_5_salarios.to_string(index=False)) # to_string(index=False) remove a numeração lateral da impressão
+
+lista_dataframes = []
+
+for arquivo_csv in caminho_arquivo.glob('*.csv'):
+    print(f"Lendo o arquivo: {arquivo_csv}")
+    try:
+        df_temp = pd.read_csv(arquivo_csv, sep=';', encoding= 'utf-8')
+        df_temp['arquivo_origem'] = arquivo_csv.name
+        lista_dataframes.append(df_temp)
+    except Exception as e:
+        print(f"Erro ao ler {arquivo_csv.name}: {e}")
+
+if lista_dataframes:
+    df_consolidado = pd.concat(lista_dataframes, ignore_index= True)
+    print("\n--- CONSOLIDAÇÃO CONCLUÍDA ---")
+    print(f"Totla de linhas na nova table:{df_consolidado.shape[0]}")
+    print(f"Total de colunas como resultado da união: {df_consolidado.shape[1]}")
+    print(f"\nContagem de registros:")
+    print(df_consolidado.columns.to_list())
+else:
+    print(f"Arquivos já processados.")
+
+conn.close()
