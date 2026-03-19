@@ -1,0 +1,5252 @@
+[
+ {
+  "idcliente": 1,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 2,
+  "cliente": "Adelino Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 3,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 4,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 5,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 6,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 7,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 8,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 9,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 10,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 11,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 12,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 13,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 14,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 15,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 16,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 17,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 18,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 19,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 20,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 21,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 22,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 23,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 24,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 25,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 26,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 27,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 28,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 29,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 30,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 31,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 32,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 33,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 34,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 35,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 36,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 37,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 38,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 39,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 40,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 41,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 42,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 43,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 44,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 45,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 46,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 47,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 48,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 49,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 50,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 51,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 52,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 53,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 54,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 55,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 56,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 57,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 58,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 59,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 60,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 61,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 62,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 63,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 64,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 65,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 66,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 67,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 68,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 69,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 70,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 71,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 72,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 73,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 74,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 75,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 76,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 77,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 78,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 79,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 80,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 81,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 82,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 83,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 84,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 85,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 86,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 87,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 88,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 89,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 90,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 91,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 92,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 93,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 94,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 95,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 96,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 97,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 98,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 99,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 100,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 101,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 102,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 103,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 104,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 105,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 106,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 107,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 108,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 109,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 110,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 111,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 112,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 113,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 114,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 115,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 116,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 117,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 118,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 119,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 120,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 121,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 122,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 123,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 124,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 125,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 126,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 127,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 128,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 129,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 130,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 131,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 132,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 133,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 134,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 135,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 136,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 137,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 138,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 139,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 140,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 141,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 142,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 143,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 144,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 145,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 146,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 147,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 148,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 149,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 150,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 151,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 152,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 153,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 154,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 155,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 156,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 157,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 158,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 159,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 160,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 161,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 162,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 163,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 164,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 165,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 166,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 167,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 168,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 169,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 170,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 171,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 172,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 173,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 174,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 175,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 176,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 177,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 178,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 179,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 180,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 181,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 182,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 183,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 184,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 185,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 186,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 187,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 188,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 189,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 190,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 191,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 192,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 193,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 194,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 195,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 196,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 197,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 198,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 199,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 200,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 201,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 202,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 203,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 204,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 205,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 206,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 207,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 208,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 209,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 210,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 211,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 212,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 213,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 214,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 215,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 216,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 217,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 218,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 219,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 220,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 221,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 222,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 223,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 224,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 225,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 226,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 227,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 228,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 229,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 230,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 231,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 232,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 233,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 234,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 235,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 236,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 237,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 238,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 239,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 240,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 241,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 242,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 243,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 244,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 245,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 246,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 247,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 248,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 249,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 250,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 251,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 252,
+  "cliente": "Adelino Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 253,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 254,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 255,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 256,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 257,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 258,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 259,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 260,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 261,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 262,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 263,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 264,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 265,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 266,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 267,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 268,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 269,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 270,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 271,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 272,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 273,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 274,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 275,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 276,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 277,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 278,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 279,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 280,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 281,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 282,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 283,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 284,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 285,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 286,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 287,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 288,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 289,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 290,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 291,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 292,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 293,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 294,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 295,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 296,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 297,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 298,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 299,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 300,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 301,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 302,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 303,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 304,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 305,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 306,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 307,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 308,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 309,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 310,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 311,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 312,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 313,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 314,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 315,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 316,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 317,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 318,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 319,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 320,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 321,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 322,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 323,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 324,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 325,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 326,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 327,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 328,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 329,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 330,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 331,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 332,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 333,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 334,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 335,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 336,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 337,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 338,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 339,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 340,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 341,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 342,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 343,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 344,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 345,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 346,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 347,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 348,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 349,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 350,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 351,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 352,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 353,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 354,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 355,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 356,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 357,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 358,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 359,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 360,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 361,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 362,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 363,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 364,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 365,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 366,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 367,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 368,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 369,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 370,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 371,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 372,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 373,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 374,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 375,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 376,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 377,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 378,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 379,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 380,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 381,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 382,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 383,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 384,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 385,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 386,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 387,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 388,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 389,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 390,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 391,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 392,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 393,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 394,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 395,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 396,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 397,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 398,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 399,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 400,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 401,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 402,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 403,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 404,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 405,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 406,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 407,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 408,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 409,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 410,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 411,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 412,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 413,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 414,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 415,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 416,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 417,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 418,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 419,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 420,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 421,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 422,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 423,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 424,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 425,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 426,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 427,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 428,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 429,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 430,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 431,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 432,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 433,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 434,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 435,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 436,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 437,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 438,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 439,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 440,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 441,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 442,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 443,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 444,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 445,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 446,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 447,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 448,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 449,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 450,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 451,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 452,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 453,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 454,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 455,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 456,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 457,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 458,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 459,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 460,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 461,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 462,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 463,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 464,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 465,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 466,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 467,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 468,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 469,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 470,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 471,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 472,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 473,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 474,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 475,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 476,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 477,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 478,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 479,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 480,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 481,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 482,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 483,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 484,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 485,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 486,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 487,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 488,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 489,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 490,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 491,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 492,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 493,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 494,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 495,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 496,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 497,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 498,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 499,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 500,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 501,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 502,
+  "cliente": "Adelino Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 503,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 504,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 505,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 506,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 507,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 508,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 509,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 510,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 511,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 512,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 513,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 514,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 515,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 516,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 517,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 518,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 519,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 520,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 521,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 522,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 523,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 524,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 525,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 526,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 527,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 528,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 529,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 530,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 531,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 532,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 533,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 534,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 535,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 536,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 537,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 538,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 539,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 540,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 541,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 542,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 543,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 544,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 545,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 546,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 547,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 548,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 549,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 550,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 551,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 552,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 553,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 554,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 555,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 556,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 557,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 558,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 559,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 560,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 561,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 562,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 563,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 564,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 565,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 566,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 567,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 568,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 569,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 570,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 571,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 572,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 573,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 574,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 575,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 576,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 577,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 578,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 579,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 580,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 581,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 582,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 583,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 584,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 585,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 586,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 587,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 588,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 589,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 590,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 591,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 592,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 593,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 594,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 595,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 596,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 597,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 598,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 599,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 600,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 601,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 602,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 603,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 604,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 605,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 606,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 607,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 608,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 609,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 610,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 611,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 612,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 613,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 614,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 615,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 616,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 617,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 618,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 619,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 620,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 621,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 622,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 623,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 624,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 625,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 626,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 627,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 628,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 629,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 630,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 631,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 632,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 633,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 634,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 635,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 636,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 637,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 638,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 639,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 640,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 641,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 642,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 643,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 644,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 645,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 646,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 647,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 648,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 649,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 650,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 651,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 652,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 653,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 654,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 655,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 656,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 657,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 658,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 659,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 660,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 661,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 662,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 663,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 664,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 665,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 666,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 667,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 668,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 669,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 670,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 671,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 672,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 673,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 674,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 675,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 676,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 677,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 678,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 679,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 680,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 681,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 682,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 683,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 684,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 685,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 686,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 687,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 688,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 689,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 690,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 691,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 692,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 693,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 694,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 695,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 696,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 697,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 698,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 699,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 700,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 701,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 702,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 703,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 704,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 705,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 706,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 707,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 708,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 709,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 710,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 711,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 712,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 713,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 714,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 715,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 716,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 717,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 718,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 719,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 720,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 721,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 722,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 723,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 724,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 725,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 726,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 727,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 728,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 729,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 730,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 731,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 732,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 733,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 734,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 735,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 736,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 737,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold"
+ },
+ {
+  "idcliente": 738,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 739,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 740,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 741,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 742,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 743,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 744,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 745,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 746,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 747,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum"
+ },
+ {
+  "idcliente": 748,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 749,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver"
+ },
+ {
+  "idcliente": 750,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver"
+ }
+]

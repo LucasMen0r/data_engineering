@@ -11,3 +11,6 @@ create table Dimensional.DimensaoVendedor
     DataInicioValidade date,
     DataFimValidade date
 );
+
+
+drop table Dimensional.DimensaoVendedor;
