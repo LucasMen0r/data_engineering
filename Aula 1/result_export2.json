@@ -1,0 +1,7502 @@
+[
+ {
+  "chavecliente": 1,
+  "idcliente": 1,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 2,
+  "idcliente": 2,
+  "cliente": "Arlindo Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 3,
+  "idcliente": 3,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 4,
+  "idcliente": 4,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 5,
+  "idcliente": 5,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 6,
+  "idcliente": 6,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 7,
+  "idcliente": 7,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 8,
+  "idcliente": 8,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 9,
+  "idcliente": 9,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 10,
+  "idcliente": 10,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 11,
+  "idcliente": 11,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 12,
+  "idcliente": 12,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 13,
+  "idcliente": 13,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 14,
+  "idcliente": 14,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 15,
+  "idcliente": 15,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 16,
+  "idcliente": 16,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 17,
+  "idcliente": 17,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 18,
+  "idcliente": 18,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 19,
+  "idcliente": 19,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 20,
+  "idcliente": 20,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 21,
+  "idcliente": 21,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 22,
+  "idcliente": 22,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 23,
+  "idcliente": 23,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 24,
+  "idcliente": 24,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 25,
+  "idcliente": 25,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 26,
+  "idcliente": 26,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 27,
+  "idcliente": 27,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 28,
+  "idcliente": 28,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 29,
+  "idcliente": 29,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 30,
+  "idcliente": 30,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 31,
+  "idcliente": 31,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 32,
+  "idcliente": 32,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 33,
+  "idcliente": 33,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 34,
+  "idcliente": 34,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 35,
+  "idcliente": 35,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 36,
+  "idcliente": 36,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 37,
+  "idcliente": 37,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 38,
+  "idcliente": 38,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 39,
+  "idcliente": 39,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 40,
+  "idcliente": 40,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 41,
+  "idcliente": 41,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 42,
+  "idcliente": 42,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 43,
+  "idcliente": 43,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 44,
+  "idcliente": 44,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 45,
+  "idcliente": 45,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 46,
+  "idcliente": 46,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 47,
+  "idcliente": 47,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 48,
+  "idcliente": 48,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 49,
+  "idcliente": 49,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 50,
+  "idcliente": 50,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 51,
+  "idcliente": 51,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 52,
+  "idcliente": 52,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 53,
+  "idcliente": 53,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 54,
+  "idcliente": 54,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 55,
+  "idcliente": 55,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 56,
+  "idcliente": 56,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 57,
+  "idcliente": 57,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 58,
+  "idcliente": 58,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 59,
+  "idcliente": 59,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 60,
+  "idcliente": 60,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 61,
+  "idcliente": 61,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 62,
+  "idcliente": 62,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 63,
+  "idcliente": 63,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 64,
+  "idcliente": 64,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 65,
+  "idcliente": 65,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 66,
+  "idcliente": 66,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 67,
+  "idcliente": 67,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 68,
+  "idcliente": 68,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 69,
+  "idcliente": 69,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 70,
+  "idcliente": 70,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 71,
+  "idcliente": 71,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 72,
+  "idcliente": 72,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 73,
+  "idcliente": 73,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 74,
+  "idcliente": 74,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 75,
+  "idcliente": 75,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 76,
+  "idcliente": 76,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 77,
+  "idcliente": 77,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 78,
+  "idcliente": 78,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 79,
+  "idcliente": 79,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 80,
+  "idcliente": 80,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 81,
+  "idcliente": 81,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 82,
+  "idcliente": 82,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 83,
+  "idcliente": 83,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 84,
+  "idcliente": 84,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 85,
+  "idcliente": 85,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 86,
+  "idcliente": 86,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 87,
+  "idcliente": 87,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 88,
+  "idcliente": 88,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 89,
+  "idcliente": 89,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 90,
+  "idcliente": 90,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 91,
+  "idcliente": 91,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 92,
+  "idcliente": 92,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 93,
+  "idcliente": 93,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 94,
+  "idcliente": 94,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 95,
+  "idcliente": 95,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 96,
+  "idcliente": 96,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 97,
+  "idcliente": 97,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 98,
+  "idcliente": 98,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 99,
+  "idcliente": 99,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 100,
+  "idcliente": 100,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 101,
+  "idcliente": 101,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 102,
+  "idcliente": 102,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 103,
+  "idcliente": 103,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 104,
+  "idcliente": 104,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 105,
+  "idcliente": 105,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 106,
+  "idcliente": 106,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 107,
+  "idcliente": 107,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 108,
+  "idcliente": 108,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 109,
+  "idcliente": 109,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 110,
+  "idcliente": 110,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 111,
+  "idcliente": 111,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 112,
+  "idcliente": 112,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 113,
+  "idcliente": 113,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 114,
+  "idcliente": 114,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 115,
+  "idcliente": 115,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 116,
+  "idcliente": 116,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 117,
+  "idcliente": 117,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 118,
+  "idcliente": 118,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 119,
+  "idcliente": 119,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 120,
+  "idcliente": 120,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 121,
+  "idcliente": 121,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 122,
+  "idcliente": 122,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 123,
+  "idcliente": 123,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 124,
+  "idcliente": 124,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 125,
+  "idcliente": 125,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 126,
+  "idcliente": 126,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 127,
+  "idcliente": 127,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 128,
+  "idcliente": 128,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 129,
+  "idcliente": 129,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 130,
+  "idcliente": 130,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 131,
+  "idcliente": 131,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 132,
+  "idcliente": 132,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 133,
+  "idcliente": 133,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 134,
+  "idcliente": 134,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 135,
+  "idcliente": 135,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 136,
+  "idcliente": 136,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 137,
+  "idcliente": 137,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 138,
+  "idcliente": 138,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 139,
+  "idcliente": 139,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 140,
+  "idcliente": 140,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 141,
+  "idcliente": 141,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 142,
+  "idcliente": 142,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 143,
+  "idcliente": 143,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 144,
+  "idcliente": 144,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 145,
+  "idcliente": 145,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 146,
+  "idcliente": 146,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 147,
+  "idcliente": 147,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 148,
+  "idcliente": 148,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 149,
+  "idcliente": 149,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 150,
+  "idcliente": 150,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 151,
+  "idcliente": 151,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 152,
+  "idcliente": 152,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 153,
+  "idcliente": 153,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 154,
+  "idcliente": 154,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 155,
+  "idcliente": 155,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 156,
+  "idcliente": 156,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 157,
+  "idcliente": 157,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 158,
+  "idcliente": 158,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 159,
+  "idcliente": 159,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 160,
+  "idcliente": 160,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 161,
+  "idcliente": 161,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 162,
+  "idcliente": 162,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 163,
+  "idcliente": 163,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 164,
+  "idcliente": 164,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 165,
+  "idcliente": 165,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 166,
+  "idcliente": 166,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 167,
+  "idcliente": 167,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 168,
+  "idcliente": 168,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 169,
+  "idcliente": 169,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 170,
+  "idcliente": 170,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 171,
+  "idcliente": 171,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 172,
+  "idcliente": 172,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 173,
+  "idcliente": 173,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 174,
+  "idcliente": 174,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 175,
+  "idcliente": 175,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 176,
+  "idcliente": 176,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 177,
+  "idcliente": 177,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 178,
+  "idcliente": 178,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 179,
+  "idcliente": 179,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 180,
+  "idcliente": 180,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 181,
+  "idcliente": 181,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 182,
+  "idcliente": 182,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 183,
+  "idcliente": 183,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 184,
+  "idcliente": 184,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 185,
+  "idcliente": 185,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 186,
+  "idcliente": 186,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 187,
+  "idcliente": 187,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 188,
+  "idcliente": 188,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 189,
+  "idcliente": 189,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 190,
+  "idcliente": 190,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 191,
+  "idcliente": 191,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 192,
+  "idcliente": 192,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 193,
+  "idcliente": 193,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 194,
+  "idcliente": 194,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 195,
+  "idcliente": 195,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 196,
+  "idcliente": 196,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 197,
+  "idcliente": 197,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 198,
+  "idcliente": 198,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 199,
+  "idcliente": 199,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 200,
+  "idcliente": 200,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 201,
+  "idcliente": 201,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 202,
+  "idcliente": 202,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 203,
+  "idcliente": 203,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 204,
+  "idcliente": 204,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 205,
+  "idcliente": 205,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 206,
+  "idcliente": 206,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 207,
+  "idcliente": 207,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 208,
+  "idcliente": 208,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 209,
+  "idcliente": 209,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 210,
+  "idcliente": 210,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 211,
+  "idcliente": 211,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 212,
+  "idcliente": 212,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 213,
+  "idcliente": 213,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 214,
+  "idcliente": 214,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 215,
+  "idcliente": 215,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 216,
+  "idcliente": 216,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 217,
+  "idcliente": 217,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 218,
+  "idcliente": 218,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 219,
+  "idcliente": 219,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 220,
+  "idcliente": 220,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 221,
+  "idcliente": 221,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 222,
+  "idcliente": 222,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 223,
+  "idcliente": 223,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 224,
+  "idcliente": 224,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 225,
+  "idcliente": 225,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 226,
+  "idcliente": 226,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 227,
+  "idcliente": 227,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 228,
+  "idcliente": 228,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 229,
+  "idcliente": 229,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 230,
+  "idcliente": 230,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 231,
+  "idcliente": 231,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 232,
+  "idcliente": 232,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 233,
+  "idcliente": 233,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 234,
+  "idcliente": 234,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 235,
+  "idcliente": 235,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 236,
+  "idcliente": 236,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 237,
+  "idcliente": 237,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 238,
+  "idcliente": 238,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 239,
+  "idcliente": 239,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 240,
+  "idcliente": 240,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 241,
+  "idcliente": 241,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 242,
+  "idcliente": 242,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 243,
+  "idcliente": 243,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 244,
+  "idcliente": 244,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 245,
+  "idcliente": 245,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 246,
+  "idcliente": 246,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 247,
+  "idcliente": 247,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 248,
+  "idcliente": 248,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 249,
+  "idcliente": 249,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 250,
+  "idcliente": 250,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 251,
+  "idcliente": 251,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 252,
+  "idcliente": 252,
+  "cliente": "Adelino Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 253,
+  "idcliente": 253,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 254,
+  "idcliente": 254,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 255,
+  "idcliente": 255,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 256,
+  "idcliente": 256,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 257,
+  "idcliente": 257,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 258,
+  "idcliente": 258,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 259,
+  "idcliente": 259,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 260,
+  "idcliente": 260,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 261,
+  "idcliente": 261,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 262,
+  "idcliente": 262,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 263,
+  "idcliente": 263,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 264,
+  "idcliente": 264,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 265,
+  "idcliente": 265,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 266,
+  "idcliente": 266,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 267,
+  "idcliente": 267,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 268,
+  "idcliente": 268,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 269,
+  "idcliente": 269,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 270,
+  "idcliente": 270,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 271,
+  "idcliente": 271,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 272,
+  "idcliente": 272,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 273,
+  "idcliente": 273,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 274,
+  "idcliente": 274,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 275,
+  "idcliente": 275,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 276,
+  "idcliente": 276,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 277,
+  "idcliente": 277,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 278,
+  "idcliente": 278,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 279,
+  "idcliente": 279,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 280,
+  "idcliente": 280,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 281,
+  "idcliente": 281,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 282,
+  "idcliente": 282,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 283,
+  "idcliente": 283,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 284,
+  "idcliente": 284,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 285,
+  "idcliente": 285,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 286,
+  "idcliente": 286,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 287,
+  "idcliente": 287,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 288,
+  "idcliente": 288,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 289,
+  "idcliente": 289,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 290,
+  "idcliente": 290,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 291,
+  "idcliente": 291,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 292,
+  "idcliente": 292,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 293,
+  "idcliente": 293,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 294,
+  "idcliente": 294,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 295,
+  "idcliente": 295,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 296,
+  "idcliente": 296,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 297,
+  "idcliente": 297,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 298,
+  "idcliente": 298,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 299,
+  "idcliente": 299,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 300,
+  "idcliente": 300,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 301,
+  "idcliente": 301,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 302,
+  "idcliente": 302,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 303,
+  "idcliente": 303,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 304,
+  "idcliente": 304,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 305,
+  "idcliente": 305,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 306,
+  "idcliente": 306,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 307,
+  "idcliente": 307,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 308,
+  "idcliente": 308,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 309,
+  "idcliente": 309,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 310,
+  "idcliente": 310,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 311,
+  "idcliente": 311,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 312,
+  "idcliente": 312,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 313,
+  "idcliente": 313,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 314,
+  "idcliente": 314,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 315,
+  "idcliente": 315,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 316,
+  "idcliente": 316,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 317,
+  "idcliente": 317,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 318,
+  "idcliente": 318,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 319,
+  "idcliente": 319,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 320,
+  "idcliente": 320,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 321,
+  "idcliente": 321,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 322,
+  "idcliente": 322,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 323,
+  "idcliente": 323,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 324,
+  "idcliente": 324,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 325,
+  "idcliente": 325,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 326,
+  "idcliente": 326,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 327,
+  "idcliente": 327,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 328,
+  "idcliente": 328,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 329,
+  "idcliente": 329,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 330,
+  "idcliente": 330,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 331,
+  "idcliente": 331,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 332,
+  "idcliente": 332,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 333,
+  "idcliente": 333,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 334,
+  "idcliente": 334,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 335,
+  "idcliente": 335,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 336,
+  "idcliente": 336,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 337,
+  "idcliente": 337,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 338,
+  "idcliente": 338,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 339,
+  "idcliente": 339,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 340,
+  "idcliente": 340,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 341,
+  "idcliente": 341,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 342,
+  "idcliente": 342,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 343,
+  "idcliente": 343,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 344,
+  "idcliente": 344,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 345,
+  "idcliente": 345,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 346,
+  "idcliente": 346,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 347,
+  "idcliente": 347,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 348,
+  "idcliente": 348,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 349,
+  "idcliente": 349,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 350,
+  "idcliente": 350,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 351,
+  "idcliente": 351,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 352,
+  "idcliente": 352,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 353,
+  "idcliente": 353,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 354,
+  "idcliente": 354,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 355,
+  "idcliente": 355,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 356,
+  "idcliente": 356,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 357,
+  "idcliente": 357,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 358,
+  "idcliente": 358,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 359,
+  "idcliente": 359,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 360,
+  "idcliente": 360,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 361,
+  "idcliente": 361,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 362,
+  "idcliente": 362,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 363,
+  "idcliente": 363,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 364,
+  "idcliente": 364,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 365,
+  "idcliente": 365,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 366,
+  "idcliente": 366,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 367,
+  "idcliente": 367,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 368,
+  "idcliente": 368,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 369,
+  "idcliente": 369,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 370,
+  "idcliente": 370,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 371,
+  "idcliente": 371,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 372,
+  "idcliente": 372,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 373,
+  "idcliente": 373,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 374,
+  "idcliente": 374,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 375,
+  "idcliente": 375,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 376,
+  "idcliente": 376,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 377,
+  "idcliente": 377,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 378,
+  "idcliente": 378,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 379,
+  "idcliente": 379,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 380,
+  "idcliente": 380,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 381,
+  "idcliente": 381,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 382,
+  "idcliente": 382,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 383,
+  "idcliente": 383,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 384,
+  "idcliente": 384,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 385,
+  "idcliente": 385,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 386,
+  "idcliente": 386,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 387,
+  "idcliente": 387,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 388,
+  "idcliente": 388,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 389,
+  "idcliente": 389,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 390,
+  "idcliente": 390,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 391,
+  "idcliente": 391,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 392,
+  "idcliente": 392,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 393,
+  "idcliente": 393,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 394,
+  "idcliente": 394,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 395,
+  "idcliente": 395,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 396,
+  "idcliente": 396,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 397,
+  "idcliente": 397,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 398,
+  "idcliente": 398,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 399,
+  "idcliente": 399,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 400,
+  "idcliente": 400,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 401,
+  "idcliente": 401,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 402,
+  "idcliente": 402,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 403,
+  "idcliente": 403,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 404,
+  "idcliente": 404,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 405,
+  "idcliente": 405,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 406,
+  "idcliente": 406,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 407,
+  "idcliente": 407,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 408,
+  "idcliente": 408,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 409,
+  "idcliente": 409,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 410,
+  "idcliente": 410,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 411,
+  "idcliente": 411,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 412,
+  "idcliente": 412,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 413,
+  "idcliente": 413,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 414,
+  "idcliente": 414,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 415,
+  "idcliente": 415,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 416,
+  "idcliente": 416,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 417,
+  "idcliente": 417,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 418,
+  "idcliente": 418,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 419,
+  "idcliente": 419,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 420,
+  "idcliente": 420,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 421,
+  "idcliente": 421,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 422,
+  "idcliente": 422,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 423,
+  "idcliente": 423,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 424,
+  "idcliente": 424,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 425,
+  "idcliente": 425,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 426,
+  "idcliente": 426,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 427,
+  "idcliente": 427,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 428,
+  "idcliente": 428,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 429,
+  "idcliente": 429,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 430,
+  "idcliente": 430,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 431,
+  "idcliente": 431,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 432,
+  "idcliente": 432,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 433,
+  "idcliente": 433,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 434,
+  "idcliente": 434,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 435,
+  "idcliente": 435,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 436,
+  "idcliente": 436,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 437,
+  "idcliente": 437,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 438,
+  "idcliente": 438,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 439,
+  "idcliente": 439,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 440,
+  "idcliente": 440,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 441,
+  "idcliente": 441,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 442,
+  "idcliente": 442,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 443,
+  "idcliente": 443,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 444,
+  "idcliente": 444,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 445,
+  "idcliente": 445,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 446,
+  "idcliente": 446,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 447,
+  "idcliente": 447,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 448,
+  "idcliente": 448,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 449,
+  "idcliente": 449,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 450,
+  "idcliente": 450,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 451,
+  "idcliente": 451,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 452,
+  "idcliente": 452,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 453,
+  "idcliente": 453,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 454,
+  "idcliente": 454,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 455,
+  "idcliente": 455,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 456,
+  "idcliente": 456,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 457,
+  "idcliente": 457,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 458,
+  "idcliente": 458,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 459,
+  "idcliente": 459,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 460,
+  "idcliente": 460,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 461,
+  "idcliente": 461,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 462,
+  "idcliente": 462,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 463,
+  "idcliente": 463,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 464,
+  "idcliente": 464,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 465,
+  "idcliente": 465,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 466,
+  "idcliente": 466,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 467,
+  "idcliente": 467,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 468,
+  "idcliente": 468,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 469,
+  "idcliente": 469,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 470,
+  "idcliente": 470,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 471,
+  "idcliente": 471,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 472,
+  "idcliente": 472,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 473,
+  "idcliente": 473,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 474,
+  "idcliente": 474,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 475,
+  "idcliente": 475,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 476,
+  "idcliente": 476,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 477,
+  "idcliente": 477,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 478,
+  "idcliente": 478,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 479,
+  "idcliente": 479,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 480,
+  "idcliente": 480,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 481,
+  "idcliente": 481,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 482,
+  "idcliente": 482,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 483,
+  "idcliente": 483,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 484,
+  "idcliente": 484,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 485,
+  "idcliente": 485,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 486,
+  "idcliente": 486,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 487,
+  "idcliente": 487,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 488,
+  "idcliente": 488,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 489,
+  "idcliente": 489,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 490,
+  "idcliente": 490,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 491,
+  "idcliente": 491,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 492,
+  "idcliente": 492,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 493,
+  "idcliente": 493,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 494,
+  "idcliente": 494,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 495,
+  "idcliente": 495,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 496,
+  "idcliente": 496,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 497,
+  "idcliente": 497,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 498,
+  "idcliente": 498,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 499,
+  "idcliente": 499,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 500,
+  "idcliente": 500,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 501,
+  "idcliente": 501,
+  "cliente": "Adelina Buenaventura",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 502,
+  "idcliente": 502,
+  "cliente": "Adelino Gago",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 503,
+  "idcliente": 503,
+  "cliente": "Ad\u00e9lio Lisboa",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 504,
+  "idcliente": 504,
+  "cliente": "Ad\u00e9rito Bah\u00eda",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 505,
+  "idcliente": 505,
+  "cliente": "Adolfo Patr\u00edcio",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 506,
+  "idcliente": 506,
+  "cliente": "Adriana Guedelha",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 507,
+  "idcliente": 507,
+  "cliente": "Aida Dorneles",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 508,
+  "idcliente": 508,
+  "cliente": "Alarico Quinterno",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 509,
+  "idcliente": 509,
+  "cliente": "Alberto Cezimbra",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 510,
+  "idcliente": 510,
+  "cliente": "Alberto Monsanto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 511,
+  "idcliente": 511,
+  "cliente": "Albino Canela",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 512,
+  "idcliente": 512,
+  "cliente": "Alceste Varanda",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 513,
+  "idcliente": 513,
+  "cliente": "Alcides Carvalhais",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 514,
+  "idcliente": 514,
+  "cliente": "Aldo Martins",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 515,
+  "idcliente": 515,
+  "cliente": "Alexandra Tabares",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 516,
+  "idcliente": 516,
+  "cliente": "Alfredo Cotrim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 517,
+  "idcliente": 517,
+  "cliente": "Almeno Figueira",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 518,
+  "idcliente": 518,
+  "cliente": "Alvito Peralta",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 519,
+  "idcliente": 519,
+  "cliente": "Amadeu Martinho",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 520,
+  "idcliente": 520,
+  "cliente": "Am\u00e9lia Est\u00e9vez",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 521,
+  "idcliente": 521,
+  "cliente": "Ana Homem",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 522,
+  "idcliente": 522,
+  "cliente": "Ana Peseiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 523,
+  "idcliente": 523,
+  "cliente": "Anacleto Garrau",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 524,
+  "idcliente": 524,
+  "cliente": "Anacleto Guterres",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 525,
+  "idcliente": 525,
+  "cliente": "Andreia Carvalhal",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 526,
+  "idcliente": 526,
+  "cliente": "An\u00edbal Bastos",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 527,
+  "idcliente": 527,
+  "cliente": "Anita Beserra",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 528,
+  "idcliente": 528,
+  "cliente": "Anna Be\u00e7a",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 529,
+  "idcliente": 529,
+  "cliente": "Anna Carvajal",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 530,
+  "idcliente": 530,
+  "cliente": "Anselmo Dinis",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 531,
+  "idcliente": 531,
+  "cliente": "Ant\u00e3o Corte-Real",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 532,
+  "idcliente": 532,
+  "cliente": "Antero Milheiro",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 533,
+  "idcliente": 533,
+  "cliente": "Ant\u00f3nia Canh\u00e3o",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 534,
+  "idcliente": 534,
+  "cliente": "Ant\u00f4nio Leiria",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 535,
+  "idcliente": 535,
+  "cliente": "Ant\u00f3nio Lousado",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 536,
+  "idcliente": 536,
+  "cliente": "Ant\u00f4nio Sobral",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 537,
+  "idcliente": 537,
+  "cliente": "Apu\u00e3 Ourique",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 538,
+  "idcliente": 538,
+  "cliente": "Arachane Matos",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 539,
+  "idcliente": 539,
+  "cliente": "Arcidres Murici",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 540,
+  "idcliente": 540,
+  "cliente": "Armindo Castilhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 541,
+  "idcliente": 541,
+  "cliente": "Armindo Moreira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 542,
+  "idcliente": 542,
+  "cliente": "Artur Macedo",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 543,
+  "idcliente": 543,
+  "cliente": "Artur Pe\u00f1a",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 544,
+  "idcliente": 544,
+  "cliente": "Aur\u00e9lio Barrios",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 545,
+  "idcliente": 545,
+  "cliente": "B\u00e1rbara Magalh\u00e3es",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 546,
+  "idcliente": 546,
+  "cliente": "Bartolomeu Vila-Ch\u00e3",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 547,
+  "idcliente": 547,
+  "cliente": "Basilio Soares",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 548,
+  "idcliente": 548,
+  "cliente": "Belmira Cola\u00e7o",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 549,
+  "idcliente": 549,
+  "cliente": "Belmiro Marroquim",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 550,
+  "idcliente": 550,
+  "cliente": "Bento Quint\u00e3o",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 551,
+  "idcliente": 551,
+  "cliente": "Bereng\u00e1ria Iglesias",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 552,
+  "idcliente": 552,
+  "cliente": "Bernardete \u00c1gueda",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 553,
+  "idcliente": 553,
+  "cliente": "Bernardete Querino",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 554,
+  "idcliente": 554,
+  "cliente": "Bernardete Tavera",
+  "estado": "ES",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 555,
+  "idcliente": 555,
+  "cliente": "Br\u00e1ulio Junquera",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 556,
+  "idcliente": 556,
+  "cliente": "Brenda Serralheiro",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 557,
+  "idcliente": 557,
+  "cliente": "Br\u00edgida Gusm\u00e3o",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 558,
+  "idcliente": 558,
+  "cliente": "Brites Morales",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 559,
+  "idcliente": 559,
+  "cliente": "Bruno Perdig\u00e3o",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 560,
+  "idcliente": 560,
+  "cliente": "Bukake N\u00fa\u00f1ez",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 561,
+  "idcliente": 561,
+  "cliente": "Ca\u00edm Queiroga",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 562,
+  "idcliente": 562,
+  "cliente": "Calisto Britto",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 563,
+  "idcliente": 563,
+  "cliente": "C\u00e2ndida Silvestre",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 564,
+  "idcliente": 564,
+  "cliente": "C\u00e2ndido Sousa do Prado",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 565,
+  "idcliente": 565,
+  "cliente": "Capitolina Ruela",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 566,
+  "idcliente": 566,
+  "cliente": "Capitolina Valadares",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 567,
+  "idcliente": 567,
+  "cliente": "Carla Briones",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 568,
+  "idcliente": 568,
+  "cliente": "Carlos Murici",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 569,
+  "idcliente": 569,
+  "cliente": "Carmem Reino",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 570,
+  "idcliente": 570,
+  "cliente": "Carminda Alcaide",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 571,
+  "idcliente": 571,
+  "cliente": "Carminda Dias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 572,
+  "idcliente": 572,
+  "cliente": "C\u00e1ssia Guerra",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 573,
+  "idcliente": 573,
+  "cliente": "C\u00e1ssia Queiroz",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 574,
+  "idcliente": 574,
+  "cliente": "C\u00e1ssio Bettencourt",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 575,
+  "idcliente": 575,
+  "cliente": "Catarina Bairros",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 576,
+  "idcliente": 576,
+  "cliente": "Catarina Montero",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 577,
+  "idcliente": 577,
+  "cliente": "Cau\u00ea Cotrim",
+  "estado": "PE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 578,
+  "idcliente": 578,
+  "cliente": "Cau\u00ea Parahyba",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 579,
+  "idcliente": 579,
+  "cliente": "Cec\u00edlia Carlos",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 580,
+  "idcliente": 580,
+  "cliente": "Celestino Pereira",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 581,
+  "idcliente": 581,
+  "cliente": "C\u00e9lia Meireles",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 582,
+  "idcliente": 582,
+  "cliente": "Celina Vale",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 583,
+  "idcliente": 583,
+  "cliente": "Ces\u00e1rio Raminhos",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 584,
+  "idcliente": 584,
+  "cliente": "Cid Pardo",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 585,
+  "idcliente": 585,
+  "cliente": "Cid\u00e1lia Miera",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 586,
+  "idcliente": 586,
+  "cliente": "Cid\u00e1lia Ornelas",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 587,
+  "idcliente": 587,
+  "cliente": "Cl\u00e1udio Cotegipe",
+  "estado": "MT",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 588,
+  "idcliente": 588,
+  "cliente": "Cl\u00e1udio Jorge",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 589,
+  "idcliente": 589,
+  "cliente": "Cl\u00e1udio Lopes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 590,
+  "idcliente": 590,
+  "cliente": "Clotilde Carvalhoso",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 591,
+  "idcliente": 591,
+  "cliente": "Cl\u00f3vis Pamplona",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 592,
+  "idcliente": 592,
+  "cliente": "Constan\u00e7a Alcaide",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 593,
+  "idcliente": 593,
+  "cliente": "Constantino Pedroso",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 594,
+  "idcliente": 594,
+  "cliente": "Corina D\u00e2maso",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 595,
+  "idcliente": 595,
+  "cliente": "Cosme Ipanema",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 596,
+  "idcliente": 596,
+  "cliente": "Cosme Lira",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 597,
+  "idcliente": 597,
+  "cliente": "Cosme Zambujal",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 598,
+  "idcliente": 598,
+  "cliente": "Crispim Cordero",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 599,
+  "idcliente": 599,
+  "cliente": "Crispim Macena",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 600,
+  "idcliente": 600,
+  "cliente": "Cristiana Campello",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 601,
+  "idcliente": 601,
+  "cliente": "Cust\u00f3dio Gon\u00e7alves",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 602,
+  "idcliente": 602,
+  "cliente": "Cust\u00f3dio Rolim",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 603,
+  "idcliente": 603,
+  "cliente": "David Br\u00e1s",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 604,
+  "idcliente": 604,
+  "cliente": "David Carvalhais",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 605,
+  "idcliente": 605,
+  "cliente": "Davide Alc\u00e1ntara",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 606,
+  "idcliente": 606,
+  "cliente": "Davide Fraga",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 607,
+  "idcliente": 607,
+  "cliente": "Deise Farias",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 608,
+  "idcliente": 608,
+  "cliente": "Deise Laureano",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 609,
+  "idcliente": 609,
+  "cliente": "Deise Meneses",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 610,
+  "idcliente": 610,
+  "cliente": "D\u00e9lia Chousa",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 611,
+  "idcliente": 611,
+  "cliente": "D\u00e9lio Paranhos",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 612,
+  "idcliente": 612,
+  "cliente": "Deolinda Castelbranco",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 613,
+  "idcliente": 613,
+  "cliente": "Deolinda Castella",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 614,
+  "idcliente": 614,
+  "cliente": "Derli Lozada",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 615,
+  "idcliente": 615,
+  "cliente": "Diana Baptista",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 616,
+  "idcliente": 616,
+  "cliente": "Dinarte Mangueira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 617,
+  "idcliente": 617,
+  "cliente": "Dinarte Marino",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 618,
+  "idcliente": 618,
+  "cliente": "Dinarte Tabalipa",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 619,
+  "idcliente": 619,
+  "cliente": "Dinarte Tabares",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 620,
+  "idcliente": 620,
+  "cliente": "Diodete Carij\u00f3",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 621,
+  "idcliente": 621,
+  "cliente": "Diodete Queiroga",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 622,
+  "idcliente": 622,
+  "cliente": "Diogo Sim\u00f3n",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 623,
+  "idcliente": 623,
+  "cliente": "Dion\u00edsio Salt\u00e3o",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 624,
+  "idcliente": 624,
+  "cliente": "Dora Galv\u00e3o",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 625,
+  "idcliente": 625,
+  "cliente": "Dora Rocha",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 626,
+  "idcliente": 626,
+  "cliente": "Doroteia Quintanilla",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 627,
+  "idcliente": 627,
+  "cliente": "Duarte Sampaio",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 628,
+  "idcliente": 628,
+  "cliente": "Dulce Prado",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 629,
+  "idcliente": 629,
+  "cliente": "Dulce Tom\u00e9",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 630,
+  "idcliente": 630,
+  "cliente": "Eduarda Borba",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 631,
+  "idcliente": 631,
+  "cliente": "Eduarda Madureira",
+  "estado": "DF",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 632,
+  "idcliente": 632,
+  "cliente": "El\u00e1dio Froes",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 633,
+  "idcliente": 633,
+  "cliente": "Eloi Meneses",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 634,
+  "idcliente": 634,
+  "cliente": "Eloi Pereira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 635,
+  "idcliente": 635,
+  "cliente": "Eloi Vasques",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 636,
+  "idcliente": 636,
+  "cliente": "Elsa Alencar",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 637,
+  "idcliente": 637,
+  "cliente": "Elsa Barreto",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 638,
+  "idcliente": 638,
+  "cliente": "Elvira A\u00e7ores",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 639,
+  "idcliente": 639,
+  "cliente": "Ema Nieves",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 640,
+  "idcliente": 640,
+  "cliente": "Emiliana Villalobos",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 641,
+  "idcliente": 641,
+  "cliente": "Epaminondas Sousa de Arronches",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 642,
+  "idcliente": 642,
+  "cliente": "Ermelinda Casquero",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 643,
+  "idcliente": 643,
+  "cliente": "Estef\u00e2nia Cyrne",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 644,
+  "idcliente": 644,
+  "cliente": "Estela Mattos",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 645,
+  "idcliente": 645,
+  "cliente": "Ester Castanho",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 646,
+  "idcliente": 646,
+  "cliente": "Ester Dantas",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 647,
+  "idcliente": 647,
+  "cliente": "Est\u00eav\u00e3o Sim\u00e3o",
+  "estado": "DF",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 648,
+  "idcliente": 648,
+  "cliente": "Eus\u00e9bio Bairros",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 649,
+  "idcliente": 649,
+  "cliente": "Eus\u00e9bio Mata",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 650,
+  "idcliente": 650,
+  "cliente": "Eus\u00e9bio Pacheco",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 651,
+  "idcliente": 651,
+  "cliente": "Eus\u00e9bio Salom\u00e3o",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 652,
+  "idcliente": 652,
+  "cliente": "Evaristo Bah\u00eda",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 653,
+  "idcliente": 653,
+  "cliente": "Fabiano Bethancout",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 654,
+  "idcliente": 654,
+  "cliente": "Fabr\u00edcio Varella",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 655,
+  "idcliente": 655,
+  "cliente": "Fabr\u00edcio Vidal",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 656,
+  "idcliente": 656,
+  "cliente": "Faustino Maranh\u00e3o",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 657,
+  "idcliente": 657,
+  "cliente": "Fausto Miranda",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 658,
+  "idcliente": 658,
+  "cliente": "Fausto Montenegro",
+  "estado": "SE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 659,
+  "idcliente": 659,
+  "cliente": "Feliciana Silvera",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 660,
+  "idcliente": 660,
+  "cliente": "Feliciano Franca",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 661,
+  "idcliente": 661,
+  "cliente": "Felicidade Aldea",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 662,
+  "idcliente": 662,
+  "cliente": "Filipa Mattozo",
+  "estado": "MA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 663,
+  "idcliente": 663,
+  "cliente": "Filipe Lamego",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 664,
+  "idcliente": 664,
+  "cliente": "Firmina Carrasco",
+  "estado": "TO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 665,
+  "idcliente": 665,
+  "cliente": "Firmino Galv\u00e1n",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 666,
+  "idcliente": 666,
+  "cliente": "Firmino Meireles",
+  "estado": "AM",
+  "sexo": "M",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 667,
+  "idcliente": 667,
+  "cliente": "Firmino Puentes",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 668,
+  "idcliente": 668,
+  "cliente": "Flam\u00ednia Miera",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 669,
+  "idcliente": 669,
+  "cliente": "Fl\u00e1via Camacho",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 670,
+  "idcliente": 670,
+  "cliente": "Fl\u00e1via Campos",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 671,
+  "idcliente": 671,
+  "cliente": "Flor Ginjeira",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 672,
+  "idcliente": 672,
+  "cliente": "Flor Vilanova",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 673,
+  "idcliente": 673,
+  "cliente": "Flor\u00eancio Lameiras",
+  "estado": "PR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 674,
+  "idcliente": 674,
+  "cliente": "Flor\u00eancio Vieira",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 675,
+  "idcliente": 675,
+  "cliente": "Floriano Orri\u00e7a",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 676,
+  "idcliente": 676,
+  "cliente": "Floriano Siebra",
+  "estado": "MS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 677,
+  "idcliente": 677,
+  "cliente": "Florinda Assun\u00e7\u00e3o",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 678,
+  "idcliente": 678,
+  "cliente": "Francisca Ramallo",
+  "estado": "RJ",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 679,
+  "idcliente": 679,
+  "cliente": "Francisca Teodoro",
+  "estado": "SE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 680,
+  "idcliente": 680,
+  "cliente": "Francisco Medina",
+  "estado": "PA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 681,
+  "idcliente": 681,
+  "cliente": "Galindo Bettencourt",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 682,
+  "idcliente": 682,
+  "cliente": "Garibaldo Oleiro",
+  "estado": "RO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 683,
+  "idcliente": 683,
+  "cliente": "Gaud\u00eancio Ipiranga",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 684,
+  "idcliente": 684,
+  "cliente": "Germana Conde",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 685,
+  "idcliente": 685,
+  "cliente": "Gertrudes Hidalgo",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 686,
+  "idcliente": 686,
+  "cliente": "Gertrudes Infante",
+  "estado": "RS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 687,
+  "idcliente": 687,
+  "cliente": "Gertrudes Rabello",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 688,
+  "idcliente": 688,
+  "cliente": "Gilberto Moutinho",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 689,
+  "idcliente": 689,
+  "cliente": "Gilda Parente",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 690,
+  "idcliente": 690,
+  "cliente": "Gin\u00e9culo Luz",
+  "estado": "RJ",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 691,
+  "idcliente": 691,
+  "cliente": "Gisela Bahia",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 692,
+  "idcliente": 692,
+  "cliente": "Gisela Candeias",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 693,
+  "idcliente": 693,
+  "cliente": "Gl\u00e1uber Guedella",
+  "estado": "RS",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 694,
+  "idcliente": 694,
+  "cliente": "Gl\u00e1ucia Canela",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 695,
+  "idcliente": 695,
+  "cliente": "Godinho ou Godim Foga\u00e7a",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 696,
+  "idcliente": 696,
+  "cliente": "Godinho ou Godim J\u00e1come",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 697,
+  "idcliente": 697,
+  "cliente": "Godofredo Mascare\u00f1as",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 698,
+  "idcliente": 698,
+  "cliente": "Godofredo Quiroga",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 699,
+  "idcliente": 699,
+  "cliente": "Gomes Hurtado",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 700,
+  "idcliente": 700,
+  "cliente": "Gon\u00e7alo Figueir\u00f3",
+  "estado": "PI",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 701,
+  "idcliente": 701,
+  "cliente": "Gra\u00e7a Tabosa",
+  "estado": "RN",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 702,
+  "idcliente": 702,
+  "cliente": "Greice Lameirinhas",
+  "estado": "PI",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 703,
+  "idcliente": 703,
+  "cliente": "Guadalupe Rodrigues",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 704,
+  "idcliente": 704,
+  "cliente": "Guadalupe Telinhos",
+  "estado": "AL",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 705,
+  "idcliente": 705,
+  "cliente": "Guaraci Imbassa\u00ed",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 706,
+  "idcliente": 706,
+  "cliente": "Gueda Cartaxo",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 707,
+  "idcliente": 707,
+  "cliente": "Gueda Laureano",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 708,
+  "idcliente": 708,
+  "cliente": "Guida Beiriz",
+  "estado": "AP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 709,
+  "idcliente": 709,
+  "cliente": "Guilhermina Hurtado",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 710,
+  "idcliente": 710,
+  "cliente": "Guilhermina Vila\u00e7a",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 711,
+  "idcliente": 711,
+  "cliente": "Hedviges Lessa",
+  "estado": "MG",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 712,
+  "idcliente": 712,
+  "cliente": "H\u00e9lder Bri\u00f3n",
+  "estado": "PB",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 713,
+  "idcliente": 713,
+  "cliente": "H\u00e9lder Valent\u00edn",
+  "estado": "AL",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 714,
+  "idcliente": 714,
+  "cliente": "Helo\u00edsa Cayubi",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 715,
+  "idcliente": 715,
+  "cliente": "Herberto Castro",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 716,
+  "idcliente": 716,
+  "cliente": "Herberto Pari",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 717,
+  "idcliente": 717,
+  "cliente": "Herculano Viveiros",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 718,
+  "idcliente": 718,
+  "cliente": "Hermano Diegues",
+  "estado": "ES",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 719,
+  "idcliente": 719,
+  "cliente": "Herm\u00edgio Cezar",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 720,
+  "idcliente": 720,
+  "cliente": "Herm\u00edgio Villaverde",
+  "estado": "MA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 721,
+  "idcliente": 721,
+  "cliente": "Honorina Camarinho",
+  "estado": "PR",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 722,
+  "idcliente": 722,
+  "cliente": "Honorina Villaverde",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 723,
+  "idcliente": 723,
+  "cliente": "Hon\u00f3rio Mafra",
+  "estado": "RR",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 724,
+  "idcliente": 724,
+  "cliente": "Hor\u00e1cio Pires",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 725,
+  "idcliente": 725,
+  "cliente": "Hugo Covilh\u00e3",
+  "estado": "CE",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 726,
+  "idcliente": 726,
+  "cliente": "Humberto Almeida",
+  "estado": "AC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 727,
+  "idcliente": 727,
+  "cliente": "Humberto Lemes",
+  "estado": "BA",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 728,
+  "idcliente": 728,
+  "cliente": "Humberto Morgado",
+  "estado": "SP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 729,
+  "idcliente": 729,
+  "cliente": "Humberto Vergueiro",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 730,
+  "idcliente": 730,
+  "cliente": "Ibijara Botelho",
+  "estado": "RR",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 731,
+  "idcliente": 731,
+  "cliente": "Ifig\u00e9nia Lustosa",
+  "estado": "PE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 732,
+  "idcliente": 732,
+  "cliente": "Ifig\u00e9nia Pires",
+  "estado": "PA",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 733,
+  "idcliente": 733,
+  "cliente": "Ilduara Ch\u00e1vez",
+  "estado": "MT",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 734,
+  "idcliente": 734,
+  "cliente": "In\u00eas Neres",
+  "estado": "CE",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 735,
+  "idcliente": 735,
+  "cliente": "Ingrit Mayor",
+  "estado": "SC",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 736,
+  "idcliente": 736,
+  "cliente": "Iolanda Rabello",
+  "estado": "PB",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 737,
+  "idcliente": 737,
+  "cliente": "Iracema Rodr\u00edguez",
+  "estado": "BA",
+  "sexo": "F",
+  "status": "Gold",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 738,
+  "idcliente": 738,
+  "cliente": "Iraci Alcoforado",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 739,
+  "idcliente": 739,
+  "cliente": "Irani Jaguari\u00fana",
+  "estado": "AM",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 740,
+  "idcliente": 740,
+  "cliente": "Irene Meireles",
+  "estado": "MS",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 741,
+  "idcliente": 741,
+  "cliente": "Irene Villanueva",
+  "estado": "AC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 742,
+  "idcliente": 742,
+  "cliente": "Isabel Meirelles",
+  "estado": "RO",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 743,
+  "idcliente": 743,
+  "cliente": "Israel Canela",
+  "estado": "RN",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 744,
+  "idcliente": 744,
+  "cliente": "Iuri Guterres",
+  "estado": "GO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 745,
+  "idcliente": 745,
+  "cliente": "Jacinto Dorneles",
+  "estado": "MG",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 746,
+  "idcliente": 746,
+  "cliente": "Janda\u00edra Albuquerque",
+  "estado": "SP",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 747,
+  "idcliente": 747,
+  "cliente": "Joana Ata\u00ed",
+  "estado": "GO",
+  "sexo": "F",
+  "status": "Platinum",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 748,
+  "idcliente": 748,
+  "cliente": "Joaquim Hurtado",
+  "estado": "AP",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 749,
+  "idcliente": 749,
+  "cliente": "Joaquim Mieiro",
+  "estado": "TO",
+  "sexo": "M",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ },
+ {
+  "chavecliente": 750,
+  "idcliente": 750,
+  "cliente": "Joaquina Vasconcelos",
+  "estado": "SC",
+  "sexo": "F",
+  "status": "Silver",
+  "datainiciovalidade": "2026-03-19",
+  "datafimvalidade": null
+ }
+]
